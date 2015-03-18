@@ -5,4 +5,3 @@ Please create a directory with your name and inside it create one directory for 
 For example:
 
 andres/chapter1
-andres/chapter2
